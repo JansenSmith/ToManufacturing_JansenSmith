@@ -10,3 +10,4 @@ cubeInTheAir.setManufacturing({ toMfg ->
 			.rotx(-15)// fix the orentation
 			.toZMin()//move it down to the flat surface
 })				
+return cubeInTheAir
